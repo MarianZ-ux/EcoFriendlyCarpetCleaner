@@ -1,0 +1,88 @@
+
+body {
+  background-color: #FFF5EB;
+  margin: 0;
+}
+
+header {
+  background-color: #4E3620;
+  height: 100px;
+}
+
+img {
+  background-color: #4E3620;
+  height: 60px;
+  position: absolute;
+  top: 20px;
+  left: 0px;
+}
+ 
+.nav ul {
+  background-color: #B2B8A3;
+  list-style: none;
+  margin: 0px;
+  padding:20px 0 0 0;
+  text-align: center;
+}
+
+.nav li {
+  background-color: #F4C7AB;
+  display: inline-block;
+  padding: 10px;
+  margin: 0 10px;
+}
+ 
+.nav a {
+  background-color: #B2B8A3;
+}
+
+section {
+  background-color: #4E3620;
+  width: 840px;
+  margin: 50px auto 0 auto;
+}
+.section-box {
+  display: inline-block;
+  width: 400px;
+  height: 300px;
+  vertical-align: top;
+  box-sizing: border-box;
+}
+
+#quote-offer-container {
+  background-color: #B2B8A3;
+  margin-right: 40px;
+}
+
+#quote-form-container {
+  background-color: #F4C7AB;
+  padding: 20px;
+  margin-top: 30px;
+  height: 200px;
+}
+
+#quote-form {
+  background-color: #B2B8A3;
+  text-align: center;
+}
+
+.form-field {
+  margin-bottom: 15px;
+  text-color: #4E3620;
+}
+
+button {
+  border: none;
+  background-color: #B2B8A3;
+  color: #4E3620;
+  text-emphasis: weight;
+  height: 40px;
+  width:  80px;
+}
+p {
+  text-color: #4E3620
+}
+/*my addded code/*
+
+
+
